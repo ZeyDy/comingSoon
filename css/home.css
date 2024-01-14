@@ -14,3 +14,7 @@
 @import './components/progress-bar.css';
 
 /* custom style below this comment*/
+
+.bg-melyna {
+    background-color: var(--melyna);
+}
