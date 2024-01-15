@@ -18,3 +18,14 @@
 .bg-melyna {
     background-color: var(--melyna);
 }
+
+.bg-raudona {
+    background-color: var(--raudona);
+}
+
+footer.container {
+    padding-top: 0;
+}
+.container.hero {
+    padding-bottom: 25px;
+}
